@@ -4,12 +4,13 @@ defmodule Cards do
       |> shuffle
     end
 
-    def shuffle(param) do
-      param ++ ["Foi!!"]
+    def shuffle(deck) do
+      Enum.shuffle(deck)
+      |> contains?("Two")
     end
 
-    def save() do
-      
+    def contains?(deck, cards) do
+      if (cards in deck), do: true, else: false 
     end
 
     def load() do
