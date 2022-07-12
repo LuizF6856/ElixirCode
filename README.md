@@ -1,5 +1,5 @@
 
-# ELIXIRCODE
+# ElixirCode
 
 - [The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/share/101Wui3@-7p8QgRr9wV_7I64TBBAQxye0OPd5ssT1A6A7s6NlWd99jQe22-H0XcW3kXVBrbM5w==/)
 
